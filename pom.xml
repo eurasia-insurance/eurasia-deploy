@@ -8,7 +8,7 @@
 
 	<groupId>tech.lapsa.eurasia</groupId>
 	<artifactId>eurasia-deploy</artifactId>
-	<version>20190110</version>
+	<version>CURRENT-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>Eurasia Lib : DEPLOY</name>
@@ -99,7 +99,7 @@
         <scm>
                 <connection>scm:git:hhttps://github.com/eurasia-insurance/eurasia-deploy.git</connection>
                 <developerConnection>scm:git:https://github.com/eurasia-insurance/eurasia-deploy.git</developerConnection>
-                <tag>v20190110</tag>
+                <tag>HEAD</tag>
         </scm>
 
 </project>
