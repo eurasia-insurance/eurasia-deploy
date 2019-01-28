@@ -15,9 +15,9 @@
 
 	<properties>
 		<!-- eurasia -->
-		<eurasia-dao.version>CURRENT-SNAPSHOT</eurasia-dao.version>
-		<eurasia-facade.version>CURRENT-SNAPSHOT</eurasia-facade.version>
-		<eurasia-ws.version>CURRENT-SNAPSHOT</eurasia-ws.version>
+		<eurasia-dao.version>20190128r1</eurasia-dao.version>
+		<eurasia-facade.version>20190128r1</eurasia-facade.version>
+		<eurasia-ws.version>20190128r1</eurasia-ws.version>
 	</properties>
 
 	<dependencies>
